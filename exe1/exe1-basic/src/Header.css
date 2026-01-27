@@ -1,0 +1,10 @@
+header {
+  font-family: Arial, sans-serif;
+  font-size: 100px;
+  color: #e32bc1;
+  text-align: center;
+  margin-top: 15px;
+
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.15);
+  letter-spacing: 2px;
+}
